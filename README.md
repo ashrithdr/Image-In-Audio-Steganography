@@ -1,0 +1,2 @@
+# Image-In-Audio-Steganography
+Steganography is a common technique to hide the target data in the carrier message within transmission in order to achieve information safety. In our project we aim to hide an image inside audio file using any of the three audio steganography techniques namely echo coding, phase encoding and spread spectrum or discrete wavelet transform and compare the results of each approach like SSIM, PSNR, MSE, LSB 
