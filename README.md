@@ -1,8 +1,8 @@
-#Introduction
+# Introduction
 
 Steganography is the practice of concealing a message within another message in such a way that no one, apart from the intended recipient, suspects the existence of the hidden message. In this report, we will discuss a MATLAB code that demonstrates how to hide an image in an audio file using steganography.
 
-##Methodology
+## Methodology
 
 The MATLAB code provided earlier uses a simple steganography technique to hide an image within an audio file. The steps involved in the process are as follows:
 
@@ -38,10 +38,10 @@ Convert the pixel values to an image: The code converts the pixel values to an i
 
 Display the image: The code displays the decoded image using the imshow function.
 
-##Results
+## Results
 
 Using the MATLAB code provided earlier, we were able to successfully embed an image in an audio file using steganography. The resulting audio file contained the hidden image, which was able to be decoded using the steps outlined above.
 
-##Conclusion
+## Conclusion
 
 Steganography is a powerful technique for hiding messages within other messages, and can be useful in a variety of applications. The MATLAB code provided in this report demonstrates a simple technique for hiding an image within an audio file using steganography. While this technique is relatively simple, it is effective at concealing the hidden image within the audio file.
